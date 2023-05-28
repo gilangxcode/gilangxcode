@@ -1,12 +1,22 @@
-- 👋 Hi, I’m @gilangxcode (Gilang)
-- 💡 I’m interested in Web Development 
-- 🏅 I’m currently learning Golang
-- 📫 How to reach me gilangxcode@gmail.com
+<pre>         
+         _nnnn_                      
+        dGGGGMMb     ,"""""""""""""".
+       @p~qp~~qMb    |.  Welcome!   |
+       M|@||@) M|   _;..............'
+       @,----.JM| -'
+      JS^\__/  qKL
+     dZP        qKRb
+    dZP          qKKb
+   fZP            SMMb
+   HZM            MMMM
+   FqM            MMMM
+ __| ".        |\dS"qML
+ |    `.       | `' \Zq
+_)      \.___.,|     .'
+\____   )MMMMMM|   .'
+     `-'       `--' hjm
+
+</pre>
 
 
 
-
-
-![gilangxcode's Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=gilangxcode&theme=tokyonight&show_icons=true&hide_border=false&layout=compact)
-
-<img src="https://img.shields.io/badge/Go-00ADD8?style=for-the-badge&logo=go&logoColor=white" align="center" />
